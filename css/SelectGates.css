@@ -1,0 +1,63 @@
+body {
+background-color:#F0F8FF;
+ font-family: "Lucida Console", monospace;
+ text-align: center;
+  height: 100%;
+}
+    
+    * {
+      box-sizing: border-box;
+    }
+h1{
+  text-align: center;
+  color:#add8e6;   
+}
+h2{
+  text-align: center;
+
+  } 
+p{
+  text-align: center;
+  } 
+
+.button {
+  border: none;
+  color: white;
+  padding: 35px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: "Lucida Console", monospace;
+  }
+.button:hover {
+background-color: #add8e6;
+opacity: 100%;
+}
+
+.button:active {
+  background-color: #e6e6fa;
+  transform: translateY(4px);
+}
+
+.button1 {
+width: 100%;
+background-color: #6495ed;
+opacity: 80%; }
+
+.button2 {
+width: 100%;
+background-color: #66cdaa;
+opacity: 80%; }
+
+ .button3 {
+  font-size: 12px;
+  background-color:#fa8072;
+  border-radius: 8px;
+  position: absolute;
+  right:0px;
+  bottom:0px;
+
+  }
